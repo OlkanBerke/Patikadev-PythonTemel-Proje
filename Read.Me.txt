@@ -1,0 +1,3 @@
+Phyton Temel Proje
+
+Listelerde Flatten ve Reverse fonksiyonlar oluşturma.
